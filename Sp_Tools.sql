@@ -1,3 +1,8 @@
+-- Download tools
+-- https://github.com/amachanic/sp_whoisactive/blob/master/sp_WhoIsActive.sql
+-- https://github.com/erikdarlingdata/DarlingData/blob/main/Install-All/DarlingData.sql
+-- https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit/blob/main/Install-All-Scripts.sql
+
 Sp_WhoIsActive 1 
 
 EXEC sp_WhoisActive 
